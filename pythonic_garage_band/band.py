@@ -61,7 +61,7 @@ class Drummer(Musician):
 
 
 if __name__ == '__main__':
-    Guitarist("eric")
+    pass
 
 
 
